@@ -6,5 +6,6 @@ int main(){
 		farh = (5*(celcious-32)) /9;
 		printf("%d %d\n", celcious, farh);
 	}
+
 	return 0;
 }
